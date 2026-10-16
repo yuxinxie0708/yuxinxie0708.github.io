@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Yuxin Xie**, an undergraduate student majoring in Information Security at Hunan University of Science and Technology, China.
+I am **Yuxin Xie**, an undergraduate student majoring in Information Security at Hunan University of Science and Technology, China. I have been recommended for admission to the University of Electronic Science and Technology of China (UESTC), a Project 985 university, to pursue a Master's degree. My research interests include **Personalized Federated Learning (PFL)** and machine learning under data heterogeneity. I have worked on three CCF-C conference papers, including two as the first author. 
 
-My research interests include **Personalized Federated Learning (PFL)** and machine learning under data heterogeneity. My research focuses on improving personalized model aggregation, reducing negative transfer caused by gradient conflicts, and enhancing collaboration among clients in federated learning.
-
-I have worked on three CCF-C conference papers, including two as the first author. Through these projects, I have gained experience in algorithm design, PyTorch implementation, experimental evaluation, ablation studies, and academic writing.
+If you have any questions, please feel free to contact me at yuxinxie@mail.hnust.edu.cn.
 
 
 
@@ -30,37 +28,58 @@ I have worked on three CCF-C conference papers, including two as the first autho
 - *2026.02*: &nbsp;🎉🎉 Our paper **FedMAS** was accepted by CSCWD 2026.
 - *2025.05*: &nbsp;🎉🎉 Our paper **FedDAR** was accepted by ICIC 2025.
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CSCWD 2026</div>
+      <img src='images/500x300.png' alt="FedMAS" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
 
 - **Yuxin Xie**, Honghui Ning, Yijie Yin and Shaobo Zhang. FedMAS: Personalized Federated Learning with Importance-Aware Multidimensional Adaptive Aggregation and Dynamic Representation Alignment. 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE, pp. 201-206, 2026. (CCF C)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- **Yuxin Xie**, Honghui Ning, Yijie Yin, Weizhi Meng and Shaobo Zhang. FedMAS: Personalized Federated Learning with Importance-Aware Multidimensional Adaptive Aggregation and Dynamic Representation Alignment. The 26th International Conference on Algorithms and Architectures for Parallel Processing(ICA3PP). Springer, 2026, Accepted. (CCF C)
- 
-</div>
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICA3PP 2026</div>
+      <img src='images/500x300.png' alt="FedLGP" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+- **Yuxin Xie**, Honghui Ning, Yijie Yin, Weizhi Meng and Shaobo Zhang. FedLGP: Layer-Wise Personalized Federated Learning via Conflicting Gradients and Quality-Aware Prototype Aggregation. The 26th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP). Springer, 2026. (CCF C, Accepted)
+
+  </div>
+</div>
+
 
 # 📖 Educations
 - *2023 – Present*: Hunan University of Science and Technology, China.
-  - Undergraduate student majoring in Information Security.
 
 
 # 🎖 Honors and Awards
-- University Comprehensive First-Class Scholarship for two consecutive years.
-- University Merit Student.
-- Innovation and Entrepreneurship Advanced Individual. 
+- *2026.06*: University Outstanding Communist Youth League Member.
+- *2025.11*: University-Level Outstanding Student.
+- *2025.11*: Innovation and Entrepreneurship Advanced Individual.
+- *2025.11*: University Comprehensive First-Class Scholarship.
+- *2025.06*: University Outstanding Communist Youth League Member.
+- *2024.12*: University Merit Student..
+- *2024.12*: University Comprehensive First-Class Scholarship.
 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.12 - 2026.03*, GitHub Open-Source Project: Test Data Annotation, XiangTan, China.
+
+# 💬 Invited Talks
+- *2026.05*, Paper presentation at the 2026 IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026), Fuzhou, China.
+
+
