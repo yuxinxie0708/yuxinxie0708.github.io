@@ -31,39 +31,11 @@ If you have any questions, please feel free to contact me at yuxinxie@mail.hnust
 
 # 📝 Publications
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICA3PP 2026</div>
-      <img src='images/FedLGP.jpg' alt="FedLGP" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-
 - **Yuxin Xie**, Honghui Ning, Yijie Yin, Weizhi Meng and Shaobo Zhang. FedLGP: Layer-Wise Personalized Federated Learning via Conflicting Gradients and Quality-Aware Prototype Aggregation. The 26th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP). Springer, 2026. (CCF C, Accepted)
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CSCWD 2026</div>
-      <img src='images/FedMAS.jpg' alt="FedMAS" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
 
 - **Yuxin Xie**, Honghui Ning, Yijie Yin and Shaobo Zhang. FedMAS: Personalized Federated Learning with Importance-Aware Multidimensional Adaptive Aggregation and Dynamic Representation Alignment. 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE, pp. 201-206, 2026. (CCF C)
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICIC 2025</div>
-      <img src='images/FedDAR.png' alt="FedLGP" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
 
 -Bizhi Lei, Fan Chen, **Yuxin Xie**, Shaobo Zhang, Entao Luo and Qing Yang. FedDAR: Multidimensional Contribution Assessment and Adaptive Gradient Rewards for Collaborative Fairness in Heterogeneous Federated Learning. 2025 International Conference on Intelligent Computing (ICIC). Springer Nature Singapore, pp. 100-113, 2025. (CCF C)
 
