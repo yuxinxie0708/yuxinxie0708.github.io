@@ -31,9 +31,6 @@ If you have any questions, please feel free to contact me at yuxinxie@mail.hnust
 
 # 📝 Publications
 
-  </div>
-</div>
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -57,9 +54,6 @@ If you have any questions, please feel free to contact me at yuxinxie@mail.hnust
   <div class='paper-box-text' markdown="1">
 
 - **Yuxin Xie**, Honghui Ning, Yijie Yin and Shaobo Zhang. FedMAS: Personalized Federated Learning with Importance-Aware Multidimensional Adaptive Aggregation and Dynamic Representation Alignment. 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE, pp. 201-206, 2026. (CCF C)
-
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
