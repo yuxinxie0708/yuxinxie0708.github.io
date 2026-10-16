@@ -37,7 +37,7 @@ If you have any questions, please feel free to contact me at yuxinxie@mail.hnust
 - **Yuxin Xie**, Honghui Ning, Yijie Yin and Shaobo Zhang. FedMAS: Personalized Federated Learning with Importance-Aware Multidimensional Adaptive Aggregation and Dynamic Representation Alignment. 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE, pp. 201-206, 2026. (CCF C)
 
 
--Bizhi Lei, Fan Chen, **Yuxin Xie**, Shaobo Zhang, Entao Luo and Qing Yang. FedDAR: Multidimensional Contribution Assessment and Adaptive Gradient Rewards for Collaborative Fairness in Heterogeneous Federated Learning. 2025 International Conference on Intelligent Computing (ICIC). Springer Nature Singapore, pp. 100-113, 2025. (CCF C)
+- Bizhi Lei, Fan Chen, **Yuxin Xie**, Shaobo Zhang, Entao Luo and Qing Yang. FedDAR: Multidimensional Contribution Assessment and Adaptive Gradient Rewards for Collaborative Fairness in Heterogeneous Federated Learning. 2025 International Conference on Intelligent Computing (ICIC). Springer Nature Singapore, pp. 100-113, 2025. (CCF C)
 
 # 📖 Educations
 - *2023 – Present*: Hunan University of Science and Technology, China.
