@@ -26,32 +26,22 @@ I have worked on three CCF-C conference papers, including two as the first autho
 
 
 # 🔥 News
-- *2026*: Our paper **FedMAS** was published in the proceedings of CSCWD 2026 by IEEE.
-- *2026*: Our paper **FedLGP** was accepted by ICA3PP 2026.
+- *2026.08*: &nbsp;🎉🎉 Our paper **FedLGP** was accepted by ICA3PP 2026.
+- *2026.02*: &nbsp;🎉🎉 Our paper **FedMAS** was accepted by CSCWD 2026.
+- *2025.05*: &nbsp;🎉🎉 Our paper **FedDAR** was accepted by ICIC 2025.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Yuxin Xie**, Honghui Ning, Yijie Yin and Shaobo Zhang. FedMAS: Personalized Federated Learning with Importance-Aware Multidimensional Adaptive Aggregation and Dynamic Representation Alignment. 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE, pp. 201-206, 2026. (CCF C)
 
-**FedMAS: Multidimensional Adaptive Aggregation with Customized Parameter Selection for Personalized Federated Learning**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **Authors:** Yuxin Xie et al.
-- **Venue:** CSCWD 2026, IEEE
-- **Role:** First author
-- **Summary:** This work studies how to balance global knowledge sharing and local personalization in federated learning. It proposes multidimensional adaptive aggregation and local dynamic representation alignment to improve personalized model performance under data heterogeneity.
-
-**FedLGP: Layer-Wise Personalized Federated Learning via Conflicting Gradients and Quality-Aware Prototype Aggregation**
-
-- **Authors:** Yuxin Xie et al.
-- **Venue:** ICA3PP 2026
-- **Role:** First author
-- **Summary:** This work addresses gradient conflicts among clients through layer-wise personalized aggregation. It also introduces quality-aware prototype aggregation and deviation-aware prototype contrastive regularization.
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Yuxin Xie**, Honghui Ning, Yijie Yin, Weizhi Meng and Shaobo Zhang. FedMAS: Personalized Federated Learning with Importance-Aware Multidimensional Adaptive Aggregation and Dynamic Representation Alignment. The 26th International Conference on Algorithms and Architectures for Parallel Processing(ICA3PP). Springer, 2026, Accepted. (CCF C)
+ 
 </div>
 </div>
 
