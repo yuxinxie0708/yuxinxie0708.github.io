@@ -31,7 +31,7 @@ If you have any questions, please feel free to contact me at yuxinxie@mail.hnust
 
 # 📝 Publications
 
-- **Yuxin Xie**, Honghui Ning, Yijie Yin, Weizhi Meng and Shaobo Zhang. FedLGP: Layer-Wise Personalized Federated Learning via Conflicting Gradients and Quality-Aware Prototype Aggregation. The 26th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP). Springer, 2026. (CCF C, Accepted)
+- **Yuxin Xie**, Honghui Ning, Yijie Yin, Weizhi Meng and Shaobo Zhang. FedLGP: Layer-Wise Personalized Federated Learning via Conflicting Gradients and Quality-Aware Prototype Aggregation. The 26th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP). Springer, 2026, Accepted. (CCF C)
 
 
 - **Yuxin Xie**, Honghui Ning, Yijie Yin and Shaobo Zhang. FedMAS: Personalized Federated Learning with Importance-Aware Multidimensional Adaptive Aggregation and Dynamic Representation Alignment. 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE, pp. 201-206, 2026. (CCF C)
