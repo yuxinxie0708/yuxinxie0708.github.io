@@ -58,7 +58,7 @@ If you have any questions, please feel free to contact me at yuxinxie@mail.hnust
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICA3PP 2026</div>
+      <div class="badge">ICIC 2025</div>
       <img src='images/FedDAR.png' alt="FedLGP" width="100%">
     </div>
   </div>
