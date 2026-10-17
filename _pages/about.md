@@ -55,7 +55,7 @@ If you have any questions, please feel free to contact me at yuxinxie@mail.hnust
 - 2025.06, Third Prize in Hunan Province, the 20th Cross-Strait, Hong Kong and Macao University Student Computer Innovation Works Competition, Rank 1.
 - 2025.05, Second Prize in Hunan Province, the 16th Lanqiao Cup National Software and Information Technology Professionals Competition, Rank 1.
 
-# 🎖️ Honors
+# 🎖 Honors
 - *2026.06*: University Outstanding Communist Youth League Member.
 - *2025.11*: University-Level Outstanding Student.
 - *2025.11*: Innovation and Entrepreneurship Advanced Individual.
