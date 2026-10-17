@@ -47,7 +47,7 @@ If you have any questions, please feel free to contact me at yuxinxie@mail.hnust
 - *2025.12 - 2026.03*, GitHub Open-Source Project: Test Data Annotation, XiangTan, China.
 
 
-# 🏆Awards
+# 🏆 Awards
 - 2026.06, Third Prize in the Central South Division of the 19th China University Computer Design Competition, Rank 1.
 - 2025.11, First Prize in Hunan Province, the 32nd China Undergraduate Mathematical Contest in Modeling (CUMCM), Rank 3.
 - 2025.06, National Third Prize, the 15th MathorCup Mathematical Application Challenge, Rank 1.
