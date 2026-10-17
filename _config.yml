@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxin Xie"
+  name             : "Yuxin Xie(谢雨欣)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hunan University of Science and Technology"
+  bio              : # "Hunan University of Science and Technology"
   location         : "Hunan, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "yuxinxie0708"
+  github           : "https://github.com/yuxinxie0708"
   google_plus      :
   keybase          :
   instagram        :
