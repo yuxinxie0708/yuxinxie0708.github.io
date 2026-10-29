@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Yuxin Xie**, an undergraduate student majoring in Information Security at Hunan University of Science and Technology, China. I have been recommended for admission to the University of Electronic Science and Technology of China (UESTC), a Project 985 university, to pursue a Master's degree. My research interests include **Personalized Federated Learning (PFL)** and machine learning under data heterogeneity. I have worked on three CCF-C conference papers, including two as the first author. 
+I am **Yuxin Xie**, an undergraduate student majoring in Information Security at Hunan University of Science and Technology, China. My research interests include **Personalized Federated Learning (PFL)** and machine learning under data heterogeneity. I have worked on three CCF-C conference papers, including two as the first author. 
 
 If you have any questions, please feel free to contact me at yuxinxie@mail.hnust.edu.cn.
 
